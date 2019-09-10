@@ -1,11 +1,11 @@
 # Site settings
 author: Donovan Jones
-title: 
+title: Coding Journey
 header-img: img/home-bg.png
 email: donovanljones94@gmail.com
 copyright_name: Donovan Jones
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A student's story from novice to dev.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Dojo414
