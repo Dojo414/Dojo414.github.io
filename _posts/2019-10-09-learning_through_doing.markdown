@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Learning Through Doing"
-date:       2019-10-09 13:14:33 +0000
+date:       2019-10-09 09:14:34 -0400
 permalink:  learning_through_doing
 ---
 
